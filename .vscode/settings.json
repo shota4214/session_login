@@ -1,0 +1,8 @@
+{
+  "cSpell.enableFiletypes": [
+    "!restructuredtext",
+    "erb",
+    "gemfile",
+    "ruby"
+  ]
+}
